@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "tags": [
+    {
+      "name": "input",
+      "attributes": [
+        {
+          "name": "ng-model"
+        },
+        {
+          "name": "ng-required"
+        },
+        {
+          "name": "ng-minlength"
+        },
+        {
+          "name": "ng-maxlength"
+        },
+        {
+          "name": "ng-pattern"
+        },
+        {
+          "name": "ng-trim"
+        }
+      ]
+    },
+    {
+      "name": "select",
+      "attributes": [
+        {
+          "name": "ng-model"
+        }
+      ]
+    },
+    {
+      "name": "textarea",
+      "attributes": [
+        {
+          "name": "ng-model"
+        },
+        {
+          "name": "ng-required"
+        },
+        {
+          "name": "ng-minlength"
+        },
+        {
+          "name": "ng-maxlength"
+        },
+        {
+          "name": "ng-pattern"
+        },
+        {
+          "name": "ng-trim"
+        }
+      ]
+    }
+  ],
+  "globalAttributes": [
+    {
+      "name": "ng-app"
+    },
+    {
+      "name": "ng-bind"
+    },
+    {
+      "name": "ng-bind-html"
+    },
+    {
+      "name": "ng-bind-template"
+    },
+    {
+      "name": "ng-blur"
+    },
+    {
+      "name": "ng-change"
+    },
+    {
+      "name": "ng-checked"
+    },
+    {
+      "name": "ng-class"
+    },
+    {
+      "name": "ng-class-even"
+    },
+    {
+      "name": "ng-class-odd"
+    },
+    {
+      "name": "ng-click"
+    },
+    {
+      "name": "ng-cloak"
+    },
+    {
+      "name": "ng-controller"
+    },
+    {
+      "name": "ng-copy"
+    },
+    {
+      "name": "ng-csp"
+    },
+    {
+      "name": "ng-cut"
+    },
+    {
+      "name": "ng-dblclick"
+    },
+    {
+      "name": "ng-disabled"
+    },
+    {
+      "name": "ng-focus"
+    },
+    {
+      "name": "ng-form"
+    },
+    {
+      "name": "ng-hide"
+    },
+    {
+      "name": "ng-href"
+    },
+    {
+      "name": "ng-if"
+    },
+    {
+      "name": "ng-click"
+    },
+    {
+      "name": "ng-cloak"
+    },
+    {
+      "name": "ng-controller"
+    },
+    {
+      "name": "ng-copy"
+    },
+    {
+      "name": "ng-csp"
+    },
+    {
+      "name": "ng-cut"
+    },
+    {
+      "name": "ng-dblclick"
+    },
+    {
+      "name": "ng-disabled"
+    },
+    {
+      "name": "ng-focus"
+    },
+    {
+      "name": "ng-form"
+    },
+    {
+      "name": "ng-hide"
+    },
+    {
+      "name": "ng-href"
+    },
+    {
+      "name": "ng-if"
+    },
+    {
+      "name": "ng-include"
+    },
+    {
+      "name": "ng-init"
+    },
+    {
+      "name": "ng-jq"
+    },
+    {
+      "name": "ng-keydown"
+    },
+    {
+      "name": "ng-keypress"
+    },
+    {
+      "name": "ng-keyup"
+    },
+    {
+      "name": "ng-list"
+    },
+    {
+      "name": "ng-model-options"
+    },
+    {
+      "name": "ng-mousedown"
+    },
+    {
+      "name": "ng-mouseenter"
+    },
+    {
+      "name": "ng-mouseleave"
+    },
+    {
+      "name": "ng-include"
+    },
+    {
+      "name": "ng-init"
+    },
+    {
+      "name": "ng-jq"
+    },
+    {
+      "name": "ng-keydown"
+    },
+    {
+      "name": "ng-keypress"
+    },
+    {
+      "name": "ng-keyup"
+    },
+    {
+      "name": "ng-list"
+    },
+    {
+      "name": "ng-model-options"
+    },
+    {
+      "name": "ng-mousedown"
+    },
+    {
+      "name": "ng-mouseenter"
+    },
+    {
+      "name": "ng-mouseleave"
+    },
+    {
+      "name": "ng-mousemove"
+    },
+    {
+      "name": "ng-mouseover"
+    },
+    {
+      "name": "ng-mouseup"
+    },
+    {
+      "name": "ng-non-bindable"
+    },
+    {
+      "name": "ng-open"
+    },
+    {
+      "name": "ng-options"
+    },
+    {
+      "name": "ng-paste"
+    },
+    {
+      "name": "ng-pluralize"
+    },
+    {
+      "name": "ng-readonly"
+    },
+    {
+      "name": "ng-repeat"
+    },
+    {
+      "name": "ng-selected"
+    },
+    {
+      "name": "ng-mousemove"
+    },
+    {
+      "name": "ng-mouseover"
+    },
+    {
+      "name": "ng-mouseup"
+    },
+    {
+      "name": "ng-non-bindable"
+    },
+    {
+      "name": "ng-open"
+    },
+    {
+      "name": "ng-options"
+    },
+    {
+      "name": "ng-paste"
+    },
+    {
+      "name": "ng-pluralize"
+    },
+    {
+      "name": "ng-readonly"
+    },
+    {
+      "name": "ng-repeat"
+    },
+    {
+      "name": "ng-selected"
+    },
+    {
+      "name": "ng-show"
+    },
+    {
+      "name": "ng-src"
+    },
+    {
+      "name": "ng-srcset"
+    },
+    {
+      "name": "ng-style"
+    },
+    {
+      "name": "ng-submit"
+    },
+    {
+      "name": "ng-switch"
+    },
+    {
+      "name": "ng-transclude"
+    },
+    {
+      "name": "ng-value"
+    },
+    {
+      "name": "ng-show"
+    },
+    {
+      "name": "ng-src"
+    },
+    {
+      "name": "ng-srcset"
+    },
+    {
+      "name": "ng-style"
+    },
+    {
+      "name": "ng-submit"
+    },
+    {
+      "name": "ng-switch"
+    },
+    {
+      "name": "ng-transclude"
+    },
+    {
+      "name": "ng-value"
+    }
+  ]
+}

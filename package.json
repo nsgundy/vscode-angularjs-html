@@ -1,0 +1,32 @@
+{
+  "name": "vscode-angularjs-html",
+  "displayName": "AngularJS HTML",
+  "description": "Provides AngularJS HTML tags and attributes",
+  "version": "0.1.0",
+  "publisher": "nsgundy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nsgundy/vscode-angularjs-html"
+  },
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "keywords": [
+    "angular1",
+    "angularjs",
+    "ng-app"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "html": {
+      "experimental": {
+        "customData": [
+          "./data/angularjs-html-contribution.json"
+        ]
+      }
+    }
+  }
+}

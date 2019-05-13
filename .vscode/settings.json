@@ -1,0 +1,9 @@
+{
+  "html.experimental.customData": ["./data/angularjs-html-contribution.json"],
+  "json.schemas": [
+    {
+      "fileMatch": ["/data/angularjs-html-contribution.json"],
+      "url": "https://raw.githubusercontent.com/Microsoft/vscode-html-languageservice/master/docs/customData.schema.json"
+    }
+  ]
+}
